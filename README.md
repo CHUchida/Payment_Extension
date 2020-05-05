@@ -1,5 +1,3 @@
-# Payment_Extension
-
 public with sharing class payments_Extension {
     //Payment__c record variable to hold payment information
     public Payment__c thisPayment {get;set;}
